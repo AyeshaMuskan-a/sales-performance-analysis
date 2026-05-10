@@ -134,7 +134,7 @@ sales-performance-analysis/
 
 ## 📊 Dashboard Preview
 
-![Dashboard](images/dashboard.png)
+https://github.com/AyeshaMuskan-a/sales-performance-analysis/blob/main/sales_img.png
 
 ---
 
