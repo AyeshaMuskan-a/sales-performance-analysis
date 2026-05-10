@@ -52,7 +52,7 @@ sales-performance-analysis/
 │
 └── README.md
 ```
-
+Note: Full dataset is not uploaded due to size limitations. A sample dataset is provided for reference.
 ---
 
 ## 🧹 Data Cleaning & Preparation
